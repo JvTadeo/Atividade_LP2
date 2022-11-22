@@ -1,5 +1,5 @@
 # Tkinter
-> Em um simples resumo, é uma biblioteca que permite a criação de interfaces gráficas com a >linguagem Python. Fornece uma maneira rápida e fácil de criar interfaces.
+> Em um simples resumo, é uma biblioteca que permite a criação de interfaces gráficas com a linguagem Python. Fornece uma maneira rápida e fácil de criar interfaces.
 
 # Instalação
 > Para instalar essa biblioteca, basta dar "import tkinter" e atribuir a uma váriavel, exemplo:  

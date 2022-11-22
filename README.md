@@ -10,7 +10,7 @@
 > Label(Uma etiqueta). 
 
 > Entry(Entrada), como o proprio nome já diz, ele vai receber uma entrada de algum dado
-> Ai pode ser QUALQUER DADO, string, int, float.
+> string, int, float.
 
 > Button(Bottão), um botão que faz a ação que você definir no no metodo "command=".
 

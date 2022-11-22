@@ -1,5 +1,5 @@
 # Tkinter
-> Em um simples resumo, é uma biblioteca que permite a crianção de interfaces gráficas com a >linguagem Python. Fornece uma maneira rápida e fácil de criar interfaces.
+> Em um simples resumo, é uma biblioteca que permite a criação de interfaces gráficas com a >linguagem Python. Fornece uma maneira rápida e fácil de criar interfaces.
 
 # Instalação
 > Para instalar essa biblioteca, basta dar "import tkinter" e atribuir a uma váriavel, exemplo:  
@@ -9,10 +9,10 @@
 > São no total, 15 tipos de Widgets, mas só vamos falar sobre o Entry(entrada), Button(Buttão) e 
 > Label(Uma etiqueta). 
 
-> Entry(Entrada), como o proprio nome já diz, ele vai receber uma entrade de algum dado
+> Entry(Entrada), como o proprio nome já diz, ele vai receber uma entrada de algum dado
 > Ai pode ser QUALQUER DADO, string, int, float.
 
-> Button(Buttão), um botão que faz a ação que você definir no no metodo "command=".
+> Button(Bottão), um botão que faz a ação que você definir no no metodo "command=".
 
 >Label(Etiqueta) Esse Widget é bem flexivel, aqui você pode deixar apenas um texto escrito ou colocar uma imagem.
 
